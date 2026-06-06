@@ -101,6 +101,35 @@ These formats consistently outperform polished editorial ads on Meta cold traffi
 
 ---
 
+## Format Library
+
+The `formats/native-formats.md` file contains **14 ready-to-use format templates** with parameterized prompts and live examples — covering every format type that consistently outperforms polished editorial ads on Meta cold traffic.
+
+| # | Format | Best for |
+|---|--------|---------|
+| 1 | iOS Note (confession / list) | Education, "what nobody tells you" |
+| 2 | iMessage conversation | Peer recommendation, social proof |
+| 3 | Tweet / X review | Viral statement, pattern-interrupt |
+| 4 | TikTok Shop review screenshot | E-com with TikTok presence |
+| 5 | Listicle "N reasons" | All categories, quantified curiosity |
+| 6 | Stat / Data-viz | Price objection, value reframe |
+| 7 | Flat-lay / Knolling | Product e-com, image-only feel |
+| 8 | Native FB/IG suggested post | Cold broad, boosted-post look |
+| 9 | UGC selfie / talking-head | Testimonial, "I tried it" |
+| 10 | Testimonial card | Trust / high-ticket |
+| 11 | Educational infographic | B2B, regulated niches, authority |
+| 12 | Advertorial / article screenshot | High-ticket cold, compliance-safe |
+| 13 | POV (Reels/Story vertical) | Awareness, 2nd-person immersion |
+| 14 | Pattern-interrupt text shock | Contrarian statement, category attack |
+| — | Carousel: versatility / styling | Fashion, lifestyle, multi-use products |
+| — | Carousel: problem → proof → offer | Objection sequence, persuasion |
+
+Each entry includes: when to use it, why it works, a full prompt template with `{PLACEHOLDERS}`, recommended aspect ratios, branding guidance, and a concrete live example.
+
+→ See [`formats/native-formats.md`](formats/native-formats.md)
+
+---
+
 ## 3 Prompt Rules (apply to every creative)
 
 ### Rule 1 — Edge-to-edge, no white borders
